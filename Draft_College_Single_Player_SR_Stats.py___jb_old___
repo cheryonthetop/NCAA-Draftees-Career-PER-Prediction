@@ -1,0 +1,74 @@
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+from bs4 import Comment
+import pandas as pd
+
+# url that we are scraping
+url = "https://www.sports-reference.com/cbb/players/jeffery-taylor-1.html"
+
+# this is the html from the given url
+html = urlopen(url)
+
+# create a BeautifulSoup object by passing through html to the BeautifulSoup() constructor.
+# lxml is a html parser
+soup = BeautifulSoup(html, 'lxml')
+
+# column header of per game statistics
+# The line below gets us the column_headers
+# column_headers_per_game = [th.getText() for th in soup.find('thead').find('tr').findAll('th')]
+column_headers_per_game = ['Season', 'School', 'Conf', 'G', 'GS', 'MP',
+                           'FG', 'FGA', 'FG%', '2P', '2PA', '2P%', '3P',
+                           '3PA','3P%', 'FT', 'FTA', 'FT%', 'ORB', 'DRB',
+                           'TRB', 'AST', 'STL', 'BLK', 'TOV', 'PF', 'PTS',
+                           '\xa0', 'SOS']
+# There is a weird element '\xa0' but we don't worry about it
+# We do not want the Season column because the HTML structure makes it more
+# trouble to extract the data, plus knowing the season is useless anyway
+column_headers_per_game.pop(0)
+
+# Retrieving the per game statistics
+stats_per_game = [[td.getText() for td in soup.find('tfoot').find('tr').findAll('td')]]
+
+# Constructing the data frame
+df_per_game = pd.DataFrame(stats_per_game, columns=column_headers_per_game)
+
+# Now we want some of that advanced stats
+# For some reason, the advanced stats for players drafted after 2011 is different than before
+# This is the column header for advanced stats after 2011
+column_headers_advanced = ['Season', 'School', 'Conf', 'G', 'GS', 'MP',
+                           'PER', 'TS%', 'eFG%', '3PAr', 'FTr', 'PProd',
+                           'ORB%', 'DRB%', 'TRB%', 'AST%', 'STL%', 'BLK%',
+                           'TOV%', 'USG%', '', 'OWS', 'DWS', 'WS', 'WS/40',
+                           '', 'OBPM', 'DBPM', 'BPM']
+# We do not want the Season column because the HTML structure makes it more
+# trouble to extract the data, plus knowing the season is useless anyway
+column_headers_advanced.pop(0)
+
+# Weirdly enough, all the advanced statistics are included as comments in the HTML file
+# Ergo we need to use the below in order to parse through the comments
+comments = soup.findAll(text=lambda text:isinstance(text, Comment))
+for c in comments:
+    data = BeautifulSoup(c,"lxml")
+    for items in data.select("table#players_advanced"):
+        # Retrieving the advanced statistics
+        stats_advanced = [[item.get_text(strip=True) for item in items.find("tfoot").find("tr").select("td")]]
+        # data must be tended further if draft year is before 2011
+        # specfically, PER, OBPM, DBPM, BPM and an empty column are missing
+        # we insert blank into respective positions as place holders
+        # if draft_year < 2011:
+        #stats_advanced[0].insert(5, '')
+        #for i in range(4):
+            #stats_advanced[0].append('')
+
+        df_advanced = pd.DataFrame(stats_advanced, columns=column_headers_advanced)
+
+        # Some columns are redundant because they are already in per game stats
+        df_advanced = df_advanced.drop(columns=['School', 'Conf', 'G', 'GS', 'MP'])
+
+df_stats_player = pd.DataFrame.join(df_per_game,df_advanced)
+df_stats_player = df_stats_player.drop(columns=['School','Conf','G','GS','PER','PProd','ORB%','DRB%','STL%','OBPM','DBPM','BPM'])
+df_stats_player = df_stats_player.drop(df_stats_player.columns[38])
+print(df_stats_player)
+print(df_stats_player.columns)
+
+#df_stats_player.to_csv("jeffery taylor.csv")

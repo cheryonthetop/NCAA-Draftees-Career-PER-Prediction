@@ -1,0 +1,538 @@
+,Player,Draft_Yr,College,Career_PER,Position
+0,Scot Pollard,1997,University of Kansas,13.8,Interior
+1,D.J. Augustin,2008,University of Texas at Austin,14.2,Perimeter
+2,Jordan Hill,2009,University of Arizona,16.3,Interior
+3,T.J. Ford,2003,University of Texas at Austin,15.1,Perimeter
+4,Alex Len,2013,University of Maryland,14.7,Interior
+5,James Johnson,2009,Wake Forest University,14.6,Perimeter
+6,Brandan Wright,2007,University of North Carolina,20.3,Interior
+7,Jumaine Jones,1999,University of Georgia,12.5,Perimeter
+8,Patrick Patterson,2010,University of Kentucky,12.6,Interior
+9,Etan Thomas,2000,Syracuse University,14.5,Interior
+10,MarShon Brooks,2011,Providence College,13.9,Perimeter
+11,DerMarr Johnson,2000,University of Cincinnati,11,Perimeter
+12,Evan Eschmeyer,1999,Northwestern University,10.6,Interior
+13,Isaiah Canaan,2013,Murray State University,10.7,Perimeter
+14,Marcus Thornton,2009,Louisiana State University,15.5,Perimeter
+15,Drew Gooden,2002,University of Kansas,16.3,Perimeter
+16,Michael Bradley,2001,Villanova University,11.3,Interior
+17,Arron Afflalo,2007,"University of California, Los Angeles",11.9,Perimeter
+18,Loren Woods,2001,University of Arizona,11.2,Interior
+19,Quincy Acy,2012,Baylor University,11.2,Perimeter
+20,Daniel Ewing,2005,Duke University,8.3,Perimeter
+21,Channing Frye,2005,University of Arizona,13.3,Interior
+22,Tobias Harris,2011,University of Tennessee,16.8,Perimeter
+23,Matt Bonner,2003,University of Florida,13.6,Interior
+24,Derek Anderson,1997,University of Kentucky,15.3,Perimeter
+25,Josh McRoberts,2007,Duke University,13.2,Interior
+26,Tayshaun Prince,2002,University of Kentucky,13.7,Perimeter
+27,Glenn Robinson III,2014,University of Michigan,10.5,Perimeter
+28,Kevin Durant,2007,University of Texas at Austin,25.2,Perimeter
+29,Luke Babbitt,2010,"University of Nevada, Reno",10.1,Perimeter
+30,Ray Allen,1996,University of Connecticut,18.6,Perimeter
+31,Darren Collison,2009,"University of California, Los Angeles",16.2,Perimeter
+32,Cole Aldrich,2010,University of Kansas,16.6,Interior
+33,Eric Bledsoe,2010,University of Kentucky,18,Perimeter
+34,Mike Conley,2007,Ohio State University,17.6,Perimeter
+35,Rasual Butler,2002,La Salle University,10.6,Perimeter
+36,Terrence Williams,2009,University of Louisville,11.5,Perimeter
+37,Marcus Williams,2006,University of Connecticut,11,Perimeter
+38,Jerome James,1998,Florida Agricultural and Mechanical University,10.6,Interior
+39,Mario Chalmers,2008,University of Kansas,12.7,Perimeter
+40,Desmond Mason,2000,Oklahoma State University,12.7,Perimeter
+41,Richard Hamilton,1999,University of Connecticut,16.5,Perimeter
+42,Fred Jones,2002,University of Oregon,11.3,Perimeter
+43,Michael Redd,2000,Ohio State University,19.5,Perimeter
+44,Anthony Parker,1997,Bradley University,12.2,Perimeter
+45,Jrue Holiday,2009,"University of California, Los Angeles",16.9,Perimeter
+46,Chris Paul,2005,Wake Forest University,25.3,Perimeter
+47,Aaron Gordon,2014,University of Arizona,15.2,Perimeter
+48,Salim Stoudamire,2005,University of Arizona,11.8,Perimeter
+49,Adam Morrison,2006,Gonzaga University,7.4,Perimeter
+50,Maurice Harkless,2012,St. John's University,12.4,Perimeter
+51,Adonal Foyle,1997,Colgate University,12.3,Interior
+52,Chase Budinger,2009,University of Arizona,13,Perimeter
+53,Shelden Williams,2006,Duke University,12.5,Interior
+54,Kenyon Martin,2000,University of Cincinnati,15,Interior
+55,Kareem Rush,2002,University of Missouri,9.2,Perimeter
+56,Roy Rogers,1996,University of Alabama,12.1,Interior
+57,Bradley Beal,2012,University of Florida,17,Perimeter
+58,Bobby Jackson,1997,University of Minnesota,15.2,Perimeter
+59,Joakim Noah,2007,University of Florida,17.6,Interior
+60,Pat Garrity,1998,University of Notre Dame,10.7,Perimeter
+61,Chris Duhon,2004,Duke University,10.8,Perimeter
+62,Bernard Robinson,2004,University of Michigan,11,Perimeter
+63,Kelvin Cato,1997,Iowa State University,14.4,Interior
+64,DeJuan Blair,2009,University of Pittsburgh,16.5,Interior
+65,Brevin Knight,1997,Stanford University,14.9,Perimeter
+66,J.J. Redick,2006,Duke University,14.9,Perimeter
+67,Jeff Foster,1999,Texas State University,14.2,Interior
+68,Kyle O'Quinn,2012,Norfolk State University,17.8,Interior
+69,Glen Davis,2007,Louisiana State University,12.4,Interior
+70,Jarvis Hayes,2003,University of Georgia,10.8,Perimeter
+71,Ryan Gomes,2005,Providence College,12.5,Perimeter
+72,Shannon Brown,2006,Michigan State University,12.4,Perimeter
+73,Danny Green,2009,University of North Carolina,13,Perimeter
+74,Anthony Johnson,1997,College of Charleston,11.2,Perimeter
+75,Zach Randolph,2001,Michigan State University,19.3,Interior
+76,Gerald Wallace,2001,University of Alabama,16.3,Perimeter
+77,DeMarcus Cousins,2010,University of Kentucky,22.4,Interior
+78,Andrew Nicholson,2012,St. Bonaventure University,12.2,Interior
+79,Kyle Singler,2011,Duke University,9.5,Perimeter
+80,Jason Thompson,2008,Rider University,13.5,Interior
+81,Hakim Warrick,2005,Syracuse University,15.5,Interior
+82,Derrick Rose,2008,University of Memphis,18.1,Perimeter
+83,John Salmons,2002,University of Miami,12.1,Perimeter
+84,Jay Williams,2002,Duke University,12.2,Perimeter
+85,Meyers Leonard,2012,University of Illinois at Urbana-Champaign,12.2,Interior
+86,Dan Gadzuric,2002,"University of California, Los Angeles",14.4,Interior
+87,Kenneth Faried,2011,Morehead State University,19.8,Interior
+88,Jerome Williams,1996,Georgetown University,15.9,Perimeter
+89,Chandler Parsons,2011,University of Florida,14.7,Perimeter
+90,Tristan Thompson,2011,University of Texas at Austin,15.4,Interior
+91,Will Barton,2012,University of Memphis,14.7,Perimeter
+92,Francisco Garcia,2005,University of Louisville,12.3,Perimeter
+93,Shelvin Mack,2011,Butler University,12.4,Perimeter
+94,Carmelo Anthony,2003,Syracuse University,20.3,Perimeter
+95,Marcus Camby,1996,University of Massachusetts Amherst,17.8,Interior
+96,Andre Miller,1999,University of Utah,17.4,Perimeter
+97,James Harden,2009,Arizona State University,24.3,Perimeter
+98,Rudy Gay,2006,University of Connecticut,16.8,Perimeter
+99,Laron Profit,1999,University of Maryland,10.6,Perimeter
+100,Trey Burke,2013,University of Michigan,13.8,Perimeter
+101,Andrew Bogut,2005,University of Utah,16.4,Interior
+102,Miles Plumlee,2012,Duke University,13.7,Interior
+103,Morris Peterson,2000,Michigan State University,13.3,Perimeter
+104,Shabazz Muhammad,2013,"University of California, Los Angeles",15.9,Perimeter
+105,Harrison Barnes,2012,University of North Carolina,13.3,Perimeter
+106,Otto Porter,2013,Georgetown University,15.6,Perimeter
+107,Jason Smith,2007,Colorado State University,12.9,Interior
+108,Roger Mason,2002,University of Virginia,10.9,Perimeter
+109,Sean Marks,1998,University of California,9.1,Interior
+110,Ronnie Brewer,2006,University of Arkansas,14.4,Perimeter
+111,Casey Jacobsen,2002,Stanford University,9.2,Perimeter
+112,Chris Crawford,1997,Marquette University,12.9,Interior
+113,Rodney Hood,2014,Duke University,13.3,Perimeter
+114,Carl Landry,2007,Purdue University,17.5,Interior
+115,James Anderson,2010,Oklahoma State University,9.9,Perimeter
+116,Derek Fisher,1996,University of Arkansas at Little Rock,11.7,Perimeter
+117,Jordan Hamilton,2011,University of Texas at Austin,13.4,Perimeter
+118,Dominic McGuire,2007,"California State University, Fresno",9.8,Perimeter
+119,Tyreke Evans,2009,University of Memphis,17.2,Perimeter
+120,Anthony Davis,2012,University of Kentucky,27.4,Interior
+121,Spencer Hawes,2007,University of Washington,14,Interior
+122,Brendan Haywood,2001,University of North Carolina,14.6,Interior
+123,Al Horford,2007,University of Florida,18.9,Interior
+124,James Posey,1999,Xavier University,12.4,Perimeter
+125,Melvin Ely,2002,"California State University, Fresno",10.6,Interior
+126,Lamar Odom,1999,University of Rhode Island,16.5,Perimeter
+127,Randy Foye,2006,Villanova University,12,Perimeter
+128,Austin Croshere,1997,Providence College,14.3,Interior
+129,Jordan Crawford,2010,Xavier University,14.1,Perimeter
+130,Mark Hendrickson,1996,Washington State University,10.6,Interior
+131,Tony Delk,1996,University of Kentucky,13.7,Perimeter
+132,Terrence Jones,2012,University of Kentucky,17.1,Interior
+133,Dajuan Wagner,2002,University of Memphis,9.9,Perimeter
+134,Eddie House,2000,Arizona State University,13.2,Perimeter
+135,Jeremy Lamb,2012,University of Connecticut,15.8,Perimeter
+136,Lance Stephenson,2010,University of Cincinnati,12.1,Perimeter
+137,Earl Clark,2009,University of Louisville,10.2,Perimeter
+138,Michael Ruffin,1999,University of Tulsa,8.5,Interior
+139,Earl Watson,2001,"University of California, Los Angeles",12.1,Perimeter
+140,Jared Sullinger,2012,Ohio State University,16.2,Interior
+141,Ryan Anderson,2008,University of California,16.5,Interior
+142,Jarrett Jack,2005,Georgia Institute of Technology,14.1,Perimeter
+143,Bobby Simmons,2001,DePaul University,12.9,Perimeter
+144,Darrell Arthur,2008,University of Kansas,12.2,Perimeter
+145,Kenny Thomas,1999,University of New Mexico,13.9,Interior
+146,P.J. Tucker,2006,University of Texas at Austin,11,Perimeter
+147,Darius Songaila,2002,Wake Forest University,13.3,Interior
+148,Josh Howard,2003,Wake Forest University,16.7,Perimeter
+149,Mardy Collins,2006,Temple University,7.9,Perimeter
+150,Vonteego Cummings,1999,University of Pittsburgh,11.8,Perimeter
+151,Elfrid Payton,2014,University of Louisiana at Lafayette,15.2,Perimeter
+152,Allen Iverson,1996,Georgetown University,20.9,Perimeter
+153,Josh Boone,2006,University of Connecticut,14.2,Interior
+154,Lavoy Allen,2011,Temple University,12.5,Interior
+155,Jason Williams,1998,University of Florida,14.2,Perimeter
+156,Rodney Buford,1999,Creighton University,10,Perimeter
+157,Shawne Williams,2006,University of Memphis,12.5,Interior
+158,Eric Maynor,2009,Virginia Commonwealth University,10.6,Perimeter
+159,Stephon Marbury,1996,Georgia Institute of Technology,18.7,Perimeter
+160,DeAndre Jordan,2008,Texas A&M University,18.5,Interior
+161,Jonny Flynn,2009,Syracuse University,11.3,Perimeter
+162,Joe Johnson,2001,University of Arkansas,15.4,Perimeter
+163,Antoine Wright,2005,Texas A&M University,7.9,Perimeter
+164,Steven Hunter,2001,DePaul University,13,Interior
+165,Michael Doleac,1998,University of Utah,10.8,Interior
+166,Greg Monroe,2010,Georgetown University,20,Interior
+167,Michael Beasley,2008,Kansas State University,15.7,Perimeter
+168,Kirk Snyder,2004,"University of Nevada, Reno",12.4,Perimeter
+169,Vince Carter,1998,University of North Carolina,18.9,Perimeter
+170,Ekpe Udoh,2010,Baylor University,11.7,Interior
+171,Courtney Lee,2008,Western Kentucky University,12.2,Perimeter
+172,Linas Kleiza,2005,University of Missouri,12.4,Perimeter
+173,Stromile Swift,2000,Louisiana State University,16.1,Interior
+174,Spencer Dinwiddie,2014,University of Colorado,15,Perimeter
+175,Chris Mihm,2000,University of Texas at Austin,13.4,Interior
+176,Rodney Stuckey,2007,Eastern Washington University,14.9,Perimeter
+177,Gilbert Arenas,2001,University of Arizona,19.6,Perimeter
+178,Josh Childress,2004,Stanford University,15.6,Perimeter
+179,Mike Miller,2000,University of Florida,14.3,Perimeter
+180,Deron Williams,2005,University of Illinois at Urbana-Champaign,18.2,Perimeter
+181,Johnny O'Bryant III,2014,Louisiana State University,8,Interior
+182,Joey Graham,2005,Oklahoma State University,11,Perimeter
+183,Sean May,2005,University of North Carolina,14.9,Interior
+184,Kirk Hinrich,2003,University of Kansas,12.8,Perimeter
+185,Rafael Araujo,2004,Brigham Young University,6.3,Interior
+186,Emeka Okafor,2004,University of Connecticut,17,Interior
+187,Jae Crowder,2012,Marquette University,13,Perimeter
+188,Ryan Kelly,2013,Duke University,10.5,Interior
+189,Luther Head,2005,University of Illinois at Urbana-Champaign,12.3,Perimeter
+190,Jeff Pendergraph,2009,Arizona State University,12.4,Interior
+191,Kemba Walker,2011,University of Connecticut,19.2,Perimeter
+192,Terrence Ross,2012,University of Washington,12.4,Perimeter
+193,Austin Rivers,2012,Duke University,10.2,Perimeter
+194,Markel Brown,2014,Oklahoma State University,10.1,Perimeter
+195,Jodie Meeks,2009,University of Kentucky,12.8,Perimeter
+196,Bryce Drew,1998,Valparaiso University,9.6,Perimeter
+197,Kyle Lowry,2006,Villanova University,18.5,Perimeter
+198,Tyronn Lue,1998,University of Nebraska,13.2,Perimeter
+199,Jamie Feick,1996,Michigan State University,12.4,Interior
+200,Marcus Banks,2003,"University of Nevada, Las Vegas",12.2,Perimeter
+201,Steven Adams,2013,University of Pittsburgh,16.7,Interior
+202,Norris Cole,2011,Cleveland State University,9.2,Perimeter
+203,Gordon Hayward,2010,Butler University,17.5,Perimeter
+204,Chris Wilcox,2002,University of Maryland,15.5,Interior
+205,Steve Nash,1996,Santa Clara University,20,Perimeter
+206,Jason Maxiell,2005,University of Cincinnati,13,Interior
+207,Jason Richardson,2001,Michigan State University,16.3,Perimeter
+208,Daequan Cook,2007,Ohio State University,9.1,Perimeter
+209,Terence Morris,2001,University of Maryland,9.9,Perimeter
+210,Mike Dunleavy,2002,Duke University,13.9,Perimeter
+211,Jeff McInnis,1996,University of North Carolina,12.6,Perimeter
+212,Dante Cunningham,2009,Villanova University,11.1,Perimeter
+213,P.J. Hairston,2014,University of North Carolina,7.6,Perimeter
+214,Jon Brockman,2009,University of Washington,10.3,Interior
+215,Luol Deng,2004,Duke University,15.4,Perimeter
+216,Reggie Bullock,2013,University of North Carolina,11.2,Perimeter
+217,Reggie Jackson,2011,Boston College,16.1,Perimeter
+218,Robert Sacre,2012,Gonzaga University,10.8,Interior
+219,Mike Bibby,1998,University of Arizona,16.1,Perimeter
+220,Mateen Cleaves,2000,Michigan State University,8.5,Perimeter
+221,Willie Green,2003,University of Detroit Mercy,11,Perimeter
+222,Jared Jeffries,2002,Indiana University,9.6,Perimeter
+223,Greivis Vasquez,2010,University of Maryland,13.7,Perimeter
+224,Shandon Anderson,1996,University of Georgia,11.7,Perimeter
+225,Jamal Crawford,2000,University of Michigan,15.1,Perimeter
+226,Paul Millsap,2006,Louisiana Tech University,19.1,Interior
+227,Maurice Taylor,1997,University of Michigan,13.1,Perimeter
+228,Chris Douglas-Roberts,2008,University of Memphis,11.5,Perimeter
+229,DeAndre Liggins,2011,University of Kentucky,7.3,Perimeter
+230,Michael Kidd-Gilchrist,2012,University of Kentucky,13.7,Perimeter
+231,Ryan Hollins,2006,"University of California, Los Angeles",11,Interior
+232,Quincy Pondexter,2010,University of Washington,9.8,Perimeter
+233,Gerald Henderson,2009,Duke University,13.4,Perimeter
+234,Klay Thompson,2011,Washington State University,16.4,Perimeter
+235,Evan Turner,2010,Ohio State University,12,Perimeter
+236,Kyrie Irving,2011,Duke University,22.1,Perimeter
+237,Nikola Vucevic,2011,University of Southern California,20.2,Interior
+238,Carlos Boozer,2002,Duke University,19.5,Interior
+239,Jeremy Evans,2010,Western Kentucky University,17.3,Perimeter
+240,Brandon Bass,2005,Louisiana State University,15.3,Interior
+241,Jason Hart,2000,Syracuse University,12.2,Perimeter
+242,Sonny Weems,2008,University of Arkansas,10.1,Perimeter
+243,Noah Vonleh,2014,Indiana University,11.8,Interior
+244,E'Twaun Moore,2011,Purdue University,11.4,Perimeter
+245,Antoine Walker,1996,University of Kentucky,16,Interior
+246,Corey Benjamin,1998,Oregon State University,8.9,Perimeter
+247,Kosta Koufos,2008,Ohio State University,15.5,Interior
+248,Tim Hardaway,2013,University of Michigan,13.5,Perimeter
+249,Derrick Williams,2011,University of Arizona,13.4,Perimeter
+250,Tariq Abdul-Wahad,1997,San Jose State University,11.4,Perimeter
+251,Brook Lopez,2008,Stanford University,20,Interior
+252,Steve Novak,2006,Marquette University,12.7,Perimeter
+253,Robin Lopez,2008,Stanford University,16.2,Interior
+254,Quincy Douby,2006,Rutgers University,9.7,Perimeter
+255,Will Solomon,2001,Clemson University,10.5,Perimeter
+256,Chris Kaman,2003,Central Michigan University,14.9,Interior
+257,Sean Williams,2007,Boston College,12.4,Interior
+258,Lorenzen Wright,1996,University of Memphis,13.3,Interior
+259,Rodney Carney,2006,University of Memphis,11.9,Perimeter
+260,Felipe Lopez,1998,St. John's University,11.5,Perimeter
+261,Nate Wolters,2013,South Dakota State University,11.3,Perimeter
+262,Matt Harpring,1998,Georgia Institute of Technology,15.3,Perimeter
+263,Joel Embiid,2014,University of Kansas,24.1,Interior
+264,Tim Duncan,1997,Wake Forest University,24.2,Interior
+265,Ike Diogu,2005,Arizona State University,15.6,Interior
+266,Trajan Langdon,1999,Duke University,12.2,Perimeter
+267,Mark Madsen,2000,Stanford University,8.1,Interior
+268,Darius Miller,2012,University of Kentucky,8.5,Perimeter
+269,Shammond Williams,1998,University of North Carolina,13.3,Perimeter
+270,Brandon Roy,2006,University of Washington,20,Perimeter
+271,CJ McCollum,2013,Lehigh University,17.3,Perimeter
+272,Toney Douglas,2009,Florida State University,13.2,Perimeter
+273,Landry Fields,2010,Stanford University,12.1,Perimeter
+274,Nazr Mohammed,1998,University of Kentucky,15,Interior
+275,Lonny Baxter,2002,University of Maryland,11.6,Interior
+276,Orien Greene,2005,University of Louisiana at Lafayette,6.1,Perimeter
+277,Danny Fortson,1997,University of Cincinnati,16.2,Interior
+278,Roshown McLeod,1998,Duke University,10.1,Perimeter
+279,Donte Greene,2008,Syracuse University,10,Perimeter
+280,Travis Diener,2005,Marquette University,12.5,Perimeter
+281,Blake Griffin,2009,University of Oklahoma,22.3,Interior
+282,Kevin Martin,2004,Western Carolina University,17.7,Perimeter
+283,Donnell Harvey,2000,University of Florida,12.5,Perimeter
+284,James Ennis,2013,"California State University, Long Beach",11.6,Perimeter
+285,Brian Cardinal,2000,Purdue University,12.7,Perimeter
+286,Tyrus Thomas,2006,Louisiana State University,14.8,Interior
+287,Calvin Booth,1999,Pennsylvania State University,12.4,Interior
+288,LaMarcus Aldridge,2006,University of Texas at Austin,20.8,Interior
+289,Doug McDermott,2014,Creighton University,10.6,Perimeter
+290,Raymond Felton,2005,University of North Carolina,13.8,Perimeter
+291,Dahntay Jones,2003,Duke University,9.5,Perimeter
+292,Shawn Marion,1999,"University of Nevada, Las Vegas",18.8,Perimeter
+293,Victor Oladipo,2013,Indiana University,16.8,Perimeter
+294,Allen Crabbe,2013,University of California,11.2,Perimeter
+295,Michael Dickerson,1998,University of Arizona,13.4,Perimeter
+296,Wally Szczerbiak,1999,Miami University,16,Perimeter
+297,Jimmy Butler,2011,Marquette University,20,Perimeter
+298,Eddie Griffin,2001,Seton Hall University,14.3,Interior
+299,Damian Lillard,2012,Weber State University,21.4,Perimeter
+300,Tony Snell,2013,University of New Mexico,9,Perimeter
+301,Byron Mullens,2009,Ohio State University,12.2,Interior
+302,Larry Sanders,2010,Virginia Commonwealth University,15.4,Interior
+303,Obinna Ekezie,1999,University of Maryland,11.2,Interior
+304,Isaiah Thomas,2011,University of Washington,20.4,Perimeter
+305,George Hill,2008,Indiana University-Purdue University Indianapolis,14.9,Perimeter
+306,Draymond Green,2012,Michigan State University,15.4,Perimeter
+307,Ben Gordon,2004,University of Connecticut,14.9,Perimeter
+308,Greg Buckner,1998,Clemson University,10.7,Perimeter
+309,K.J. McDaniels,2014,Clemson University,10.8,Perimeter
+310,Hilton Armstrong,2006,University of Connecticut,9.9,Interior
+311,Andre Drummond,2012,University of Connecticut,22,Interior
+312,John Wall,2010,University of Kentucky,19.4,Perimeter
+313,Jordan Clarkson,2014,University of Missouri,15.3,Perimeter
+314,Hassan Whiteside,2010,Marshall University,24,Interior
+315,Ruben Patterson,1998,University of Cincinnati,17.1,Perimeter
+316,Steve Blake,2003,University of Maryland,11.1,Perimeter
+317,Erick Dampier,1996,Mississippi State University,14.3,Interior
+318,Mo Williams,2003,University of Alabama,15,Perimeter
+319,Samuel Dalembert,2001,Seton Hall University,15.4,Interior
+320,Caron Butler,2002,University of Connecticut,15,Perimeter
+321,Jason Collins,2001,Stanford University,9.4,Interior
+322,Archie Goodwin,2013,University of Kentucky,11.6,Perimeter
+323,Ron Mercer,1997,University of Kentucky,12.5,Perimeter
+324,Chris Singleton,2011,Florida State University,8.2,Perimeter
+325,Marcus Smart,2014,Oklahoma State University,11.7,Perimeter
+326,Antonio Daniels,1997,Bowling Green State University,14.6,Perimeter
+327,Randy Livingston,1996,Louisiana State University,10,Perimeter
+328,Markieff Morris,2011,University of Kansas,14.1,Interior
+329,Chris Bosh,2003,Georgia Institute of Technology,20.6,Interior
+330,Keon Clark,1998,"University of Nevada, Las Vegas",15.4,Interior
+331,Jared Dudley,2007,Boston College,12.7,Perimeter
+332,A.J. Price,2009,University of Connecticut,12.2,Perimeter
+333,David West,2003,Xavier University,18.6,Perimeter
+334,Ronny Turiaf,2005,Gonzaga University,13.8,Interior
+335,Paul Pierce,1998,University of Kansas,19.7,Perimeter
+336,Andre Roberson,2013,University of Colorado,9.8,Perimeter
+337,Xavier Henry,2010,University of Kansas,9.3,Perimeter
+338,O.J. Mayo,2008,University of Southern California,13.4,Perimeter
+339,Walter McCarty,1996,University of Kentucky,10.1,Perimeter
+340,Jabari Parker,2014,Duke University,16.1,Interior
+341,Jamaal Tinsley,2001,Iowa State University,13.6,Perimeter
+342,Mason Plumlee,2013,Duke University,17.9,Interior
+343,Festus Ezeli,2012,Vanderbilt University,13.4,Interior
+344,Paul George,2010,"California State University, Fresno",19.1,Perimeter
+345,Michael Carter-Williams,2013,Syracuse University,13.7,Perimeter
+346,Luc Mbah a Moute,2008,"University of California, Los Angeles",10.7,Perimeter
+347,Todd MacCulloch,1999,University of Washington,16.9,Interior
+348,Marcus Morris,2011,University of Kansas,13.3,Interior
+349,Aaron Brooks,2007,University of Oregon,13.3,Perimeter
+350,Cuttino Mobley,1998,University of Rhode Island,14.4,Perimeter
+351,Mark Blount,1997,University of Pittsburgh,12.5,Interior
+352,Matt Barnes,2002,"University of California, Los Angeles",12.7,Perimeter
+353,Julius Randle,2014,University of Kentucky,17.6,Interior
+354,Tyler Hansbrough,2009,University of North Carolina,14.8,Interior
+355,Brian Scalabrine,2001,University of Southern California,7.7,Interior
+356,Russell Westbrook,2008,"University of California, Los Angeles",23.7,Perimeter
+357,Kevin Love,2008,"University of California, Los Angeles",21.9,Interior
+358,Speedy Claxton,2000,Hofstra University,14.5,Perimeter
+359,Ed Davis,2010,University of North Carolina,16.7,Interior
+360,Shareef Abdur-Rahim,1996,University of California,19,Perimeter
+361,Jeff Teague,2009,Wake Forest University,17.1,Perimeter
+362,Cedric Henderson,1997,University of Memphis,9.2,Perimeter
+363,Brandon Rush,2008,University of Kansas,9.9,Perimeter
+364,Jeff Green,2007,Georgetown University,13.2,Perimeter
+365,Kawhi Leonard,2011,San Diego State University,22.6,Perimeter
+366,Roy Hibbert,2008,Georgetown University,15.5,Interior
+367,Eric Gordon,2008,Indiana University,14.5,Perimeter
+368,Marreese Speights,2008,University of Florida,16.7,Interior
+369,Gary Harris,2014,Michigan State University,14,Perimeter
+370,Quincy Lewis,1999,University of Minnesota,6.7,Perimeter
+371,John Jenkins,2012,Vanderbilt University,11.7,Perimeter
+372,Robert Traylor,1998,University of Michigan,14.5,Interior
+373,Jason Terry,1999,University of Arizona,16.2,Perimeter
+374,Jake Voskuhl,2000,University of Connecticut,10.8,Interior
+375,Thomas Robinson,2012,University of Kansas,14,Interior
+376,Jacque Vaughn,1997,University of Kansas,10.1,Perimeter
+377,Richard Jefferson,2001,University of Arizona,14.4,Perimeter
+378,Ray McCallum,2013,University of Detroit Mercy,11,Perimeter
+379,Anthony Randolph,2008,Louisiana State University,16.5,Interior
+380,Anthony Bennett,2013,"University of Nevada, Las Vegas",10.2,Interior
+381,Stephen Curry,2009,Davidson College,23.8,Perimeter
+382,Jarron Collins,2001,Stanford University,9.4,Interior
+383,Ben McLemore,2013,University of Kansas,9.3,Perimeter
+384,Daniel Gibson,2006,University of Texas at Austin,10.8,Perimeter
+385,Joel Przybilla,2000,University of Minnesota,12,Interior
+386,Troy Murphy,2001,University of Notre Dame,15.4,Interior
+387,Mike Sweetney,2003,Georgetown University,15.1,Interior
+388,Luke Ridnour,2003,University of Oregon,13.9,Perimeter
+389,Vitaly Potapenko,1996,Wright State University,11.8,Interior
+390,Alec Burks,2011,University of Colorado,13.6,Perimeter
+391,Samaki Walker,1996,University of Louisville,12.7,Interior
+392,Shane Battier,2001,Duke University,12.6,Perimeter
+393,Derrick Brown,2009,Xavier University,13.8,Perimeter
+394,Lee Nailon,1999,Texas Christian University,14,Perimeter
+395,Cory Joseph,2011,University of Texas at Austin,12.6,Perimeter
+396,Tony Wroten,2012,University of Washington,12.6,Perimeter
+397,Nick Young,2007,University of Southern California,12.9,Perimeter
+398,Keith Van Horn,1997,University of Utah,16.8,Perimeter
+399,DeMar DeRozan,2009,University of Southern California,17.9,Perimeter
+400,Leon Powe,2006,University of California,16.8,Perimeter
+401,Rafer Alston,1998,"California State University, Fresno",13.2,Perimeter
+402,Chauncey Billups,1997,University of Colorado,18.8,Perimeter
+403,Solomon Hill,2013,University of Arizona,9.1,Perimeter
+404,Andre Iguodala,2004,University of Arizona,15.7,Perimeter
+405,Marcus Fizer,2000,Iowa State University,13.4,Perimeter
+406,Tyler Ennis,2014,Syracuse University,10.3,Perimeter
+407,Renaldo Balkman,2006,University of South Carolina,14.3,Perimeter
+408,Baron Davis,1999,"University of California, Los Angeles",17.8,Perimeter
+409,Andrew Wiggins,2014,University of Kansas,14.5,Perimeter
+410,Bonzi Wells,1998,Ball State University,16.1,Perimeter
+411,John Thomas,1997,University of Minnesota,9.4,Interior
+412,JaVale McGee,2008,"University of Nevada, Reno",19.3,Interior
+413,Kyle Korver,2003,Creighton University,12.8,Perimeter
+414,Nik Stauskas,2014,University of Michigan,9,Perimeter
+415,Juan Dixon,2002,University of Maryland,12.8,Perimeter
+416,Alvin Williams,1997,Villanova University,13.7,Perimeter
+417,Jahidi White,1998,Georgetown University,14.2,Interior
+418,DeMarre Carroll,2009,University of Missouri,13.5,Perimeter
+419,Austin Daye,2009,Gonzaga University,11.6,Perimeter
+420,Jeff Withey,2013,University of Kansas,16.9,Interior
+421,J.J. Hickson,2008,North Carolina State University,16.1,Interior
+422,Rodney White,2001,University of North Carolina at Charlotte,12.3,Perimeter
+423,Al Thornton,2007,Florida State University,12.3,Perimeter
+424,Nerlens Noel,2013,University of Kentucky,16.9,Interior
+425,Corey Brewer,2007,University of Florida,11.8,Perimeter
+426,Nick Collison,2003,University of Kansas,13.2,Interior
+427,Jelani McCoy,1998,"University of California, Los Angeles",12.6,Interior
+428,Wayne Ellington,2009,University of North Carolina,11.1,Perimeter
+429,Othella Harrington,1996,Georgetown University,12.5,Interior
+430,Todd Fuller,1996,North Carolina State University,10.3,Interior
+431,Charles Smith,1997,University of New Mexico,11.5,Perimeter
+432,Ty Lawson,2009,University of North Carolina,17.2,Perimeter
+433,Nate Robinson,2005,University of Washington,15.6,Perimeter
+434,Kendall Marshall,2012,University of North Carolina,10.7,Perimeter
+435,Brandon Knight,2011,University of Kentucky,14.1,Perimeter
+436,Nick Calathes,2009,University of Florida,12.3,Perimeter
+437,D.J. White,2008,Indiana University,14.5,Interior
+438,Delonte West,2004,Saint Joseph's University,13.9,Perimeter
+439,Tony Battie,1997,Texas Tech University,12.6,Interior
+440,Marvin Williams,2005,University of North Carolina,13.7,Perimeter
+441,Taj Gibson,2009,University of Southern California,15.5,Interior
+442,David Lee,2005,University of Florida,19.1,Perimeter
+443,Jordan Farmar,2006,"University of California, Los Angeles",13.3,Perimeter
+444,Keyon Dooling,2000,University of Missouri,11.5,Perimeter
+445,Solomon Jones,2006,University of South Florida,10.2,Interior
+446,Brian Cook,2003,University of Illinois at Urbana-Champaign,13.1,Interior
+447,Bill Walker,2008,Kansas State University,10.8,Perimeter
+448,Jerryd Bayless,2008,University of Arizona,12.2,Perimeter
+449,Quentin Richardson,2000,DePaul University,12.9,Perimeter
+450,Kris Humphries,2004,University of Minnesota,15.4,Perimeter
+451,Greg Oden,2007,Ohio State University,18.7,Interior
+452,Hasheem Thabeet,2009,University of Connecticut,10.3,Interior
+453,James Jones,2003,University of Miami,11.3,Perimeter
+454,Charlie Villanueva,2005,University of Connecticut,16,Interior
+455,Kyle Anderson,2014,"University of California, Los Angeles",13.6,Perimeter
+456,Sam Young,2009,University of Pittsburgh,11.5,Perimeter
+457,Raef LaFrentz,1998,University of Kansas,16.1,Interior
+458,Royal Ivey,2004,University of Texas at Austin,8.4,Perimeter
+459,Travis Knight,1996,University of Connecticut,11.4,Interior
+460,Jameer Nelson,2004,Saint Joseph's University,14.4,Perimeter
+461,Jason Kapono,2003,"University of California, Los Angeles",10.5,Perimeter
+462,Jamaal Magloire,2000,University of Kentucky,13.5,Interior
+463,Eduardo Najera,2000,University of Oklahoma,12,Perimeter
+464,Perry Jones,2012,Baylor University,8.5,Perimeter
+465,Shane Larkin,2013,University of Miami,11.4,Perimeter
+466,Justin Hamilton,2012,Louisiana State University,13.9,Interior
+467,Cody Zeller,2013,Indiana University,15.5,Interior
+468,Trenton Hassell,2001,Austin Peay State University,8.4,Perimeter
+469,Mike Muscala,2013,Bucknell University,13.5,Interior
+470,Shabazz Napier,2014,University of Connecticut,12.7,Perimeter
+471,Courtney Alexander,2000,"California State University, Fresno",11.5,Perimeter
+472,Ryan Bowen,1998,University of Iowa,10.5,Perimeter
+473,Avery Bradley,2010,University of Texas at Austin,11.3,Perimeter
+474,Dwight Powell,2014,Stanford University,18.3,Interior
+475,Steve Francis,1999,University of Maryland,18.3,Perimeter
+476,Metta World Peace,1999,St. John's University,14.8,Perimeter
+477,Rashad McCants,2005,University of North Carolina,12.9,Perimeter
+478,Acie Law,2007,Texas A&M University,9.9,Perimeter
+479,Jimmer Fredette,2011,Brigham Young University,12.6,Perimeter
+480,Gorgui Dieng,2013,University of Louisville,16,Interior
+481,Trevor Booker,2010,Clemson University,15,Interior
+482,Iman Shumpert,2011,Georgia Institute of Technology,9.9,Perimeter
+483,Antawn Jamison,1998,University of North Carolina,18.1,Perimeter
+484,Dwyane Wade,2003,Marquette University,23.6,Perimeter
+485,Derrick Favors,2010,Georgia Institute of Technology,18.8,Interior
+486,Marc Jackson,1997,Temple University,14.1,Interior
+487,David Harrison,2004,University of Colorado,10.9,Interior
+488,Eric Washington,1997,University of Alabama,9.5,Perimeter
+489,Jon Leuer,2011,University of Wisconsin,14.5,Interior
+490,Ricky Davis,1998,University of Iowa,14.7,Perimeter
+491,Francisco Elson,1999,University of California,10,Interior
+492,Aaron Gray,2007,University of Pittsburgh,11.5,Interior
+493,Keith Bogans,2003,University of Kentucky,9.6,Perimeter
+494,Mark Pope,1996,University of Kentucky,6.4,Perimeter
+495,Trevor Ariza,2004,"University of California, Los Angeles",13.3,Perimeter
+496,Luke Walton,2003,University of Arizona,11.7,Perimeter
+497,Elton Brand,1999,Duke University,20.5,Interior
+498,Brian Skinner,1998,Baylor University,12,Interior
+499,Tim Thomas,1997,Villanova University,14,Perimeter
+500,Danny Granger,2005,University of New Mexico,16.9,Perimeter
+501,Kelly Olynyk,2013,Gonzaga University,16,Interior
+502,Julian Wright,2007,University of Kansas,12.8,Perimeter
+503,Mike Scott,2012,University of Virginia,13.5,Interior
+504,Larry Hughes,1998,Saint Louis University,14.9,Perimeter
+505,Dion Glover,1999,Georgia Institute of Technology,12.8,Perimeter
+506,Rajon Rondo,2006,University of Kentucky,16.2,Perimeter
+507,Michael Olowokandi,1998,University of the Pacific,10.7,Interior
+508,Khris Middleton,2012,Texas A&M University,15.5,Perimeter
+509,Hanno Mottola,2000,University of Utah,8.1,Perimeter
+510,Von Wafer,2005,Florida State University,11.8,Perimeter
+511,Wilson Chandler,2007,DePaul University,13.1,Perimeter
+512,Zach LaVine,2014,"University of California, Los Angeles",14.8,Perimeter
+513,Dan Dickau,2002,Gonzaga University,12.9,Perimeter
+514,Scott Padgett,1999,University of Kentucky,12.9,Interior
+515,Thaddeus Young,2007,Georgia Institute of Technology,16.4,Interior
+516,T.J. Warren,2014,North Carolina State University,16.2,Perimeter
+517,Jason Collier,2000,Georgia Institute of Technology,11.7,Interior
+518,Ramon Sessions,2007,"University of Nevada, Reno",15.9,Perimeter
+519,Patrick Beverley,2009,University of Arkansas,12.5,Perimeter
+520,Kerry Kittles,1996,Villanova University,16,Perimeter
+521,Corey Maggette,1999,Duke University,17.9,Perimeter
+522,Al-Farouq Aminu,2010,Wake Forest University,12.4,Perimeter
+523,Jerami Grant,2014,Syracuse University,12.6,Perimeter
+524,Devin Harris,2004,University of Wisconsin,16,Perimeter
+525,Craig Smith,2006,Boston College,16.2,Interior
+526,Malik Rose,1996,Drexel University,13.4,Perimeter
+527,Wesley Johnson,2010,Syracuse University,10,Perimeter
+528,Joe Harris,2014,University of Virginia,11.8,Perimeter
+529,John Henson,2012,University of North Carolina,17.1,Interior
+530,John Wallace,1996,Syracuse University,14,Perimeter
+531,Tyler Zeller,2012,University of North Carolina,14.9,Interior
+532,Kentavious Caldwell-Pope,2013,University of Georgia,12,Perimeter
+533,Tony Allen,2004,Oklahoma State University,14.2,Perimeter
+534,Jeff Taylor,2012,Vanderbilt University,8.9,Perimeter
+535,Javaris Crittenton,2007,Georgia Institute of Technology,10.6,Perimeter
+536,Dion Waiters,2012,Syracuse University,12,Perimeter
